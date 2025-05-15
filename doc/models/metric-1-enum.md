@@ -1,0 +1,33 @@
+
+# Metric 1 Enum
+
+The metric to be aggregated for this request.
+
+## Enumeration
+
+`Metric1Enum`
+
+## Fields
+
+| Name |
+|  --- |
+| `VIEWS` |
+| `UNIQUE_VIEWS` |
+| `DOWNSCALE_PERCENTAGE` |
+| `UPSCALE_PERCENTAGE` |
+| `REBUFFER_PERCENTAGE` |
+| `STARTUP_TIME` |
+| `PLAYER_STARTUP_TIME` |
+| `SEEK_LATENCY` |
+| `EXITS_BEFORE_STARTUP` |
+| `PLAYBACK_FAILURE_PERCENTAGE` |
+| `COMPLETION_PERCENT` |
+| `COMPLETION_PERCENT_BY_VIEWS` |
+| `REBUFFER_DURATION` |
+| `PLAYING_TIME` |
+| `REBUFFER_COUNT` |
+| `REBUFFER_FREQUENCY` |
+| `AVERAGE_BITRATE` |
+| `CONCURRENT_USERS` |
+| `PLAYBACK_RATE` |
+
